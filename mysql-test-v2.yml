@@ -1,0 +1,5 @@
+mysql:
+  ip: 10.9.242.15
+  host: 10208
+  username: root
+  password: admin
